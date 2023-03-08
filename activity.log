@@ -103,3 +103,4 @@
 2023-03-07T00:00:00 - fix: correct model training
 2023-03-07T00:00:00 - test: add unit tests
 2023-03-08T00:00:00 - fix: handle edge cases
+2023-03-08T00:00:00 - fix: resolve bug
