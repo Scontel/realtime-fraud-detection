@@ -225,3 +225,4 @@
 2023-05-18T00:00:00 - fix: correct model training
 2023-05-18T00:00:00 - fix: handle edge cases
 2023-05-19T00:00:00 - fix: resolve bug
+2023-05-22T00:00:00 - test: improve coverage
