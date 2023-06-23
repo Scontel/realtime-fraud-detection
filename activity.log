@@ -277,3 +277,4 @@
 2023-06-21T00:00:00 - feat: add data support
 2023-06-22T00:00:00 - fix: correct model training
 2023-06-23T00:00:00 - perf: optimize performance
+2023-06-23T00:00:00 - refactor: modularize
