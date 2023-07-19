@@ -305,3 +305,4 @@
 2023-07-18T00:00:00 - perf: optimize performance
 2023-07-19T00:00:00 - test: add integration tests
 2023-07-19T00:00:00 - fix: correct model training
+2023-07-19T00:00:00 - perf: speed up inference
