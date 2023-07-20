@@ -320,3 +320,4 @@
 2023-07-18T00:00:00 - docs: update install guide
 2023-07-20T00:00:00 - fix: resolve bug
 2023-07-20T00:00:00 - feat: implement algorithm
+2023-07-20T00:00:00 - perf: speed up inference
