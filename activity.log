@@ -451,3 +451,4 @@
 2023-11-17T00:00:00 - fix: correct model training
 2023-11-17T00:00:00 - fix: resolve bug
 2023-11-20T00:00:00 - test: add integration tests
+2023-11-20T00:00:00 - perf: reduce memory
