@@ -471,3 +471,4 @@
 2023-11-29T00:00:00 - fix: resolve bug
 2023-11-29T00:00:00 - feat: add new feature
 2023-11-30T00:00:00 - fix: correct model training
+2023-11-30T00:00:00 - test: add unit tests
