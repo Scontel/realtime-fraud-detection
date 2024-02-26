@@ -595,3 +595,4 @@
 2024-02-22T00:00:00 - test: add unit tests
 2024-02-23T00:00:00 - test: add unit tests
 2024-02-23T00:00:00 - fix: handle edge cases
+2024-02-26T00:00:00 - perf: reduce memory
