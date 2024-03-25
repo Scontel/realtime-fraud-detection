@@ -669,3 +669,4 @@
 2024-03-20T00:00:00 - fix: resolve bug
 2024-03-21T00:00:00 - refactor: improve code
 2024-03-21T00:00:00 - perf: speed up inference
+2024-03-25T00:00:00 - test: add unit tests
