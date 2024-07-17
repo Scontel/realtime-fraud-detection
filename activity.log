@@ -788,3 +788,4 @@
 2024-07-16T00:00:00 - refactor: clean up code
 2024-07-16T00:00:00 - docs: add API docs
 2024-07-17T00:00:00 - docs: add API docs
+2024-07-17T00:00:00 - perf: speed up inference
