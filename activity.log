@@ -993,3 +993,4 @@
 2024-11-25T00:00:00 - docs: update install guide
 2024-11-25T00:00:00 - test: improve coverage
 2024-11-27T00:00:00 - perf: optimize performance
+2024-11-27T00:00:00 - refactor: modularize
