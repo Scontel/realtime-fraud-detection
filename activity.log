@@ -984,3 +984,4 @@
 2024-12-12T00:00:00 - docs: add API docs
 2024-12-16T00:00:00 - refactor: modularize
 2024-12-16T00:00:00 - refactor: improve code
+2024-12-16T00:00:00 - perf: speed up inference
