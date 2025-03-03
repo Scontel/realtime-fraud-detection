@@ -1089,3 +1089,4 @@
 2025-02-28T00:00:00 - fix: correct model training
 2025-02-28T00:00:00 - test: add integration tests
 2025-03-03T00:00:00 - feat: add data support
+2025-03-03T00:00:00 - test: improve coverage
