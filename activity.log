@@ -1424,3 +1424,4 @@
 2025-09-10T00:00:00 - style: fix formatting
 2025-09-11T00:00:00 - fix: handle edge cases
 2025-09-11T00:00:00 - docs: update install guide
+2025-09-12T00:00:00 - test: improve coverage
