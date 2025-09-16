@@ -1354,3 +1354,4 @@
 2025-09-10T00:00:00 - docs: add API docs
 2025-09-12T00:00:00 - test: add unit tests
 2025-09-12T00:00:00 - test: improve coverage
+2025-09-16T00:00:00 - fix: correct model training
