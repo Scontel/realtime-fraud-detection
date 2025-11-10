@@ -1429,3 +1429,4 @@
 2025-11-05T00:00:00 - perf: speed up inference
 2025-11-06T00:00:00 - test: add integration tests
 2025-11-07T00:00:00 - refactor: modularize
+2025-11-10T00:00:00 - chore: update dependencies
