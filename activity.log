@@ -1599,3 +1599,4 @@
 2026-02-06T00:00:00 - docs: add API docs
 2026-02-09T00:00:00 - feat: implement algorithm
 2026-02-09T00:00:00 - refactor: modularize
+2026-02-09T00:00:00 - perf: speed up inference
