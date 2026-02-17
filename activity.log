@@ -1621,3 +1621,4 @@
 2026-02-12T00:00:00 - feat: add new feature
 2026-02-12T00:00:00 - perf: speed up inference
 2026-02-12T00:00:00 - test: improve coverage
+2026-02-17T00:00:00 - test: add integration tests
